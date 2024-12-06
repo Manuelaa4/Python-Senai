@@ -1,0 +1,6 @@
+print('olá, mundo!')
+print('bom dia manuela')
+print('eu gosto muito do meu cachorro <3')
+print('ele é muito carinhoso e fofinho')
+print('ele tem 1 aninho e meio')
+print('e eu amo muito o meu dudu')
